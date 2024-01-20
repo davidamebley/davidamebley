@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💻 I build backend, frontend, and full-stack apps.
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
-- ☁️ Currently exploring cloud-first development.
-- ⚡ Fun fact: Once taught IT in a Ghanaian junior high school, winning multiple best teacher awards. Now immersed in full-time software development in Finland! 🏫🏆💻🌍
+- ☁️ Exploring cloud-first development, especially with AWS and Azure.
+- ⚡ Fun fact: Once taught IT in a Ghanaian junior high school, winning multiple Best Teacher awards. Now immersed in full-time software development in Finland! 🏫🏆💻🌍
 
 Let's connect and collaborate on innovative projects!
