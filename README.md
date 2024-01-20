@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Currently exploring cloud-first development.
 - ⚡ Fun fact: Once taught IT in a Ghanaian junior high school, winning multiple best teacher awards. Now immersed in full-time software development in Finland! 🏫🏆💻🌍
-- 🚀 Eager to further explore cloud-first development and enhance my cloud technology certifications.
 
 Let's connect and collaborate on innovative projects!
