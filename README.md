@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
 - ⚡ Fun fact: Once taught IT in a Ghanaian junior high school, winning multiple Best Teacher awards. Now immersed in full-time software development in Finland! 🏫🏆💻🌍
 
-Let's connect and collaborate on innovative projects!
+Connect with me and let's innovate!
