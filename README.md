@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm David Amebley 👋
 
-- 🌍 Currently with Hack Junction, Helsinki, a renowned tech event organizer in Europe as a full stack developer.
+- 🌍 Currently with Hack Junction, Helsinki, as a full stack developer.
 - 🎓 A Computer Science graduate with a background in I.T.
 - 💻 I build backend, frontend, and full-stack apps.
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
-- ⚡ Fun fact: Once taught IT in a Ghanaian junior high school, winning multiple Best Teacher awards. Now immersed in full-time software development in Finland! 🏫🏆💻🌍
+- ⚡ Fun fact: I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. The leap into software development was fueled by encouragement from friends and my self-belief, especially after innovating with tools like MS Excel for tasks like exam result compilation and grade preparation.
 
-Connect with me and let's innovate!
+If you're currently hiring, let's connect!
