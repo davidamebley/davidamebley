@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌍 Currently with Hack Junction, Helsinki, as a full stack developer.
 - 🎓 A Computer Science graduate with a background in I.T.
-- 💻 I build backend, frontend, and full-stack apps.
+- 💻 I build backend and full-stack apps.
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
