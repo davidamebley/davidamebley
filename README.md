@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
-- ⚡ Fun fact: I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. The leap into software development was fueled by encouragement from friends and my self-belief, especially after innovating with tools like MS Excel for tasks like exam result compilation and grade preparation.
+- ⚡ Fun fact: I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. The leap into software development was inspired by my self-belief and encouragement from friends, especially after innovating with tools like MS Excel for tasks like exam result compilation and grade preparation.
 
 If you're currently hiring, let's connect!
