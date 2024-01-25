@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm David Amebley 👋
 
-- 🌍 Currently with Hack Junction, Helsinki, as a full stack developer.
+- 🌍 Currently with Hack Junction, Finland, as a full stack developer.
 - 🎓 A background in Computer Science and a bachelor of science in I.T.
-- 💻 I build backend and full-stack apps.
+- 💻 I build backend, and full-stack software applications.
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
