@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # Hi there, I'm David Amebley 👋
 
 - 🌍 I am volunteering at Hack Junction, Finland, as a volunteer full-stack developer.
-- 🎓 A background in Computer Science and a bachelor of science in I.T.
-- 💻 I build backend, and full-stack software applications.
+- 🎓 My background is in Computer Science and I.T.
+- 💻 I enjoy working on backend services, frontend, and full-stack apps.
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
