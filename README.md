@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
 - ⚡ Fun fact: I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. The leap into software development was inspired by my self-belief and encouragement from friends, especially after innovating with tools like MS Excel for tasks like exam result compilation and grade preparation.
 
-If your team or company values growth, innovation, and collaboration, and you believe my skills could contribute to your mission, I'm eager to connect and explore how we can work together!
+<b>If your team or company values growth, innovation, and collaboration, and you believe my skills could contribute to your mission, I'm eager to connect and explore how we can work together!<b/>
