@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌐 A strong focus on Java, TypeScript, C#, and Python.
 - 🛠 Skilled in DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
-- <b>⚡ Fun fact:</b> I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. It was during this time that my love of programming was born after innovating with tools like MS Excel for tasks such as exam result compilation and grade preparation.
+- <b>⚡ Fun fact:</b> I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. It was during this time that my love of programming was born, after innovating with tools like MS Excel for tasks such as exam result compilation and grade preparation.
 
 <b>If your team or company values growth, innovation, and collaboration, and you believe my skills could contribute to your mission, I'm eager to connect and explore how we can work together!<b/>
 <!-- I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. The switch to programming was inspired by my self-belief and encouragement from friends, especially after innovating with tools like MS Excel for tasks like exam result compilation and grade preparation.
