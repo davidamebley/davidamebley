@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌍 I am volunteering with Hack Junction, Finland, as a volunteer full-stack developer.
 - 🎓 My background is in Computer Science and Information Technology.
 - 💻 I enjoy working on backend services, frontend, and full-stack apps.
-- 🌐 A strong focus on Java, TypeScript, C#, and Python.
+- 🌐 A strong focus on Java, Python, TypeScript, and C#.
 - 🛠 Skilled in Test automation, and DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Exploring cloud-first development, especially with AWS and Azure.
 - <b>⚡ Fun fact:</b> I once taught I.T. in a Ghanaian junior high school earning multiple Best Teacher awards. During this time, my love of programming was born, after innovating with tools like MS Excel for tasks such as exam result compilation and grade preparation.
