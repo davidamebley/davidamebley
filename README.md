@@ -1,6 +1,5 @@
 
 <!--
-**davidamebley/davidamebley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,16 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm David Amebley 👋
-
-- 🌍 I am volunteering at Hack Junction, Finland, as a full-stack developer.
-- 🎓 My background is in Computer Science and Information Technology.
-- 💻 I enjoy working on backend services, frontend, and full-stack apps.
-- 🌐 A strong focus on Java, Python, TypeScript, and C#.
-- 🛠 Skilled in Test automation, and DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
-- ☁️ Exploring cloud-first development, especially with AWS and Azure.
-- <b>⚡ Fun fact:</b> I began as an I.T instructor teaching in a Ghanaian junior high school and earning multiple Best Teacher awards. This is where my love of programming was born, after innovating with tools such as MS Excel for tasks like exam result compilation and grade preparation.
-
-<b>If you believe my skills could contribute to your mission, I'm eager to connect and explore how we can work together!<b/>
+# Hello, I'm David Amebley 👋
+🌍 Currently volunteering as a full-stack developer at Hack Junction, Finland.
+🎓 Background in Computer Science and Information Technology.
+💻 Passionate about developing backend services, frontend interfaces, and full-stack applications.
+🌐 Focused on using Java, Python, TypeScript, and C#.
+🛠 Gaining experience in Test automation and DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
+☁️ Delving into cloud-first development, with an emphasis on AWS.
+⚡ Fun fact: My journey in tech started as an IT instructor in Ghana, where my efforts to innovate educational processes with tools like MS Excel sparked my interest in programming.
+<b>If you think we could be a good match, I’d love to discuss how I might contribute to your projects and learn alongside your team!</b>
 <!-- I once taught IT in a Ghanaian junior high school and earned multiple Best Teacher awards. The switch to programming was inspired by my self-belief and encouragement from friends, especially after innovating with tools like MS Excel for tasks like exam result compilation and grade preparation.
 -->
