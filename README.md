@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello, I'm David Amebley 👋
-- 🌍 Currently volunteering as a full-stack developer at Hack Junction, Finland.
+<!--
+- 🌍 Currently with a full-stack developer at Hack Junction, Finland.
 - 🎓 Background in Computer Science and Information Technology.
-- 💻 Passionate about developing backend services, frontend interfaces, and full-stack applications.
+-->
+- 💻 I enjoy working on backend, frontend, and full-stack applications.
 - 🌐 Focused on using Java, Python, TypeScript, and C#.
 - 🛠 Gaining experience in Test automation and DevOps practices, including Bash scripting, Docker, and CI/CD with GitHub Actions.
 - ☁️ Delving into cloud-first development, with an emphasis on AWS.
